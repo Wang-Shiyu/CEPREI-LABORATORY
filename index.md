@@ -1,10 +1,30 @@
-## Welcome to GitHub Pages
+## Internship in CEPREI LABORATORY
 
-You can use the [editor on GitHub](https://github.com/Wang-Shiyu/CEPREI-LABORATORY/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+2019.6.25 - 2019.7.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### GB∕T 19668.5-2018 信息技术服务 监理 第5部分：软件工程监理规范
+#### Information technology service-- Surveillence Part5 Software project surveillance specification 
+
+#### Definition
+
+**software engineering**
+
+应用计算机科学理论和技术以及工程管理原则和方法，按照预算和进度，实现满足用户要求的软件产品的定义、开发、发布和维护的工程或进行研究的学科。
+
+**认定 realize and consent**
+
+监理机构对业主单位或承建单位所提供的信息的理解、认可和确定。
+
+**就绪可用软件产品 ready to use software product:RUSP**
+
+可提供给任何用户使用，不需要经过实施开发活动的软件产品
+
+*
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -25,13 +45,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Wang-Shiyu/CEPREI-LABORATORY/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
