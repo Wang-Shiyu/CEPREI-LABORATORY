@@ -1,53 +1,73 @@
-## Internship in CEPREI LABORATORY
+#Software Project Management
 
-2019.6.25 - 2019.7.31
+*Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**I don't want to be a programmer coding in office all my life...**
 
-### GB∕T 19668.5-2018 信息技术服务 监理 第5部分：软件工程监理规范
-### Information technology service-- Surveillence Part5 Software project surveillance specification 
+**Programmers have little room of improvement in both salaries and skills when they reach middle age. And it comes...996. So I need to cultivate my project management skills** (not major, computer skills priorities)**——FROM NOW ON —— to be a Team Leader. ** [^2019 7-4 16:15 ] 
 
-#### Definition
+This repository will collect some documents about software engineering management. Keep update...
 
-**1. software engineering**
+##Internship in CEPREI LABORATORY
 
-应用计算机科学理论和技术以及工程管理原则和方法，按照预算和进度，实现满足用户要求的软件产品的定义、开发、发布和维护的工程或进行研究的学科。
+*2019.6.25-2019.7.30*
 
-**2. 认定 realize and consent**
 
-监理机构对业主单位或承建单位所提供的信息的理解、认可和确定。  
 
-**3. 就绪可用软件产品 ready to use software product:RUSP**
+This picture shows the general process of software engineering surveillance.
 
-可提供给任何用户使用，不需要经过实施开发活动的软件产品。
 
-**4. 符合性 conformity**
 
-满足要求的程度。
+An extended version with more details ->  图片链接
 
-**5. 可追溯性 traceability**
 
-追溯实体的历史、应用情况或所处位置的能力。
 
-**6. 一致性 consistency**
+Some important documents for software engineers
 
-内容、所采用的方法或程应当相同，不得随意变更。
 
-**7. 适宜性 suitability**
 
-适应外部和内部环境变化的能力。
+##GB∕T 19668.5-2018 
 
-**8. 易测性 testability**
+### Information technology service-- Surveillance Part5 Software project surveillance specification 
 
-为确定一项需求是否满足，能够设计一个客观且可行的测试程度。
+click here to download `GB∕T 19668.5-2018`
 
-**9. 有效性 effectiveness**
+在软件公司承包了开发项目时，需要第三方进行监理，监理承担重要的项目管理跟进工作。监理流程严格按照国家标准文件进行，例如`GB∕T 19668.5-2018 `。具体包括，合同的签订，客户需求的调研。。。。
 
-完成策划的活动并得到策划结果的程度。
+Definition
 
-**10. 安全保密性 security**
+> 软件工程 **software engineering**
+> 认定 **realize and consent**
+> 就绪可用软件产品 **ready to use software product: RUSP**
+> 符合性 **conformity**
+> 可追溯性 **traceability**
+> 一致性 **consistency**
+> 适宜性 **suitability**
+> 易测性 **testability**
+> 有效性 **effectiveness**
+> 安全保密性 **security**  
 
-对信息和数据的保护，以使未经授权的人员或系统不能阅读或修改它们，且不拒绝授权人员或系统对它们的访问。
+General Demand
+
+Planning
+
+Deployment
+
+
+
+
+
+
+
+###
+
+
+
+
+
+
+
+
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
