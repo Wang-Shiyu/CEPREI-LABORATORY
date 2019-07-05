@@ -1,14 +1,14 @@
-#Software Project Management
+# Software Project Management
 
 *Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.*
 
-**I don't want to be a programmer coding in office all my life...**
+*I don't want to be a programmer coding in office all my life...*
 
-**Programmers have little room of improvement in both salaries and skills when they reach middle age. And it comes...996. So I need to cultivate my project management skills** (not major, computer skills priorities)**——FROM NOW ON —— to be a Team Leader. ** [^2019 7-4 16:15 ] 
+*Programmers have little room of improvement in both salaries and skills when they reach middle age. And it comes...996. So I need to cultivate my project management skills (not major, computer skills priorities) ——FROM NOW ON ——  to be a Team Leader.*  <sup>2019 7-4 16:15 </sup> 
 
 This repository will collect some documents about software engineering management. Keep update...
 
-##Internship in CEPREI LABORATORY
+## Internship in CEPREI LABORATORY
 
 *2019.6.25-2019.7.30*
 
@@ -26,9 +26,9 @@ Some important documents for software engineers
 
 
 
-##GB∕T 19668.5-2018 
+## GB∕T 19668.5-2018
 
-### Information technology service-- Surveillance Part5 Software project surveillance specification 
+### Information technology service-- Surveillance Part5 Software project surveillance specification
 
 click here to download `GB∕T 19668.5-2018`
 
@@ -52,20 +52,6 @@ General Demand
 Planning
 
 Deployment
-
-
-
-
-
-
-
-###
-
-
-
-
-
-
 
 
 
