@@ -17,20 +17,12 @@
 **The Fifth Electronics Research Institute of the Ministry of Industry and Information Technology** **/China Ceprei Laboratory**
 
 
-
-
-
 I 'm here, as a surveillance of The Project of integrated Information System of Human Resources and Social Security in Guangdong Province in Guangdong Province.
-
-
-
-
-
 
 
 This picture shows the general process of software engineering surveillance.
 
-![](surveillance.png)
+<div align=center><img src='surveillance.png'></div>
 
 An extended version with more details can be downloaded [here]().  
 
